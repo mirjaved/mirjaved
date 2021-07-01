@@ -3,7 +3,7 @@
 I really enjoy working on frameworks such as Laravel for developing web applications and Livewire for building dynamic interfaces, as well as working in WordPress.  A fast learner, self-motivated and a team player, a tech enthusiast and always want to learn new things
 
 Languages I am competent with
-PHP / JavaScript / HTML / CSS
+PHP / JavaScript / HTML / CSSCancel changes
 
 Frameworks I am competent with
 Laravel / Livewire
@@ -14,5 +14,4 @@ Git / VS Code / MySQL / GitHub
 - 🔭 I’m currently working on this page. 
 
 
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mirjaved)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JavedNasirMir)  
