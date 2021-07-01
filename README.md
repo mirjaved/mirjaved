@@ -6,15 +6,13 @@
 I really enjoy working on frameworks such as Laravel for developing web applications and Livewire for building dynamic interfaces, as well as working in WordPress.  A fast learner, self-motivated and a team player, a tech enthusiast and always want to learn new things.
 
 ### Languages I am competent with
-PHP / JavaScript / HTML / CSS
-
-<img src="https://github.com/mirjaved/mirjaved/blob/main/PHP.jpg" alt="PHP">   <img src="https://github.com/mirjaved/mirjaved/blob/main/javascript.jpg" alt="JavaScript">   <img src="https://github.com/mirjaved/mirjaved/blob/main/HTML.jpg" alt="HTML">   <img src="https://github.com/mirjaved/mirjaved/blob/main/CSS.jpg" alt="CSS">
+<img src="https://github.com/mirjaved/mirjaved/blob/main/PHP.jpg" alt="PHP"> <img src="https://github.com/mirjaved/mirjaved/blob/main/javascript.jpg" alt="JavaScript"> <img src="https://github.com/mirjaved/mirjaved/blob/main/HTML.jpg" alt="HTML"> <img src="https://github.com/mirjaved/mirjaved/blob/main/CSS.jpg" alt="CSS">
 
 ### Frameworks I am competent with
-Laravel / Livewire
+<img src="https://github.com/mirjaved/mirjaved/blob/main/Laravel.jpg" alt="Laravel"> <img src="https://github.com/mirjaved/mirjaved/blob/main/Livewire.jpg" alt="Livewire">
 
 ### Tools I have worked with
-Git / VS Code / MySQL / GitHub
+<img src="https://github.com/mirjaved/mirjaved/blob/main/Adobe-Photshop.jpg" alt="Adobe Photoshop"> <img src="https://github.com/mirjaved/mirjaved/blob/main/VSCode.jpg" alt="VS Code"> <img src="https://github.com/mirjaved/mirjaved/blob/main/MySQL.jpg" alt="MySQL"> <img src="https://github.com/mirjaved/mirjaved/blob/main/GIT.jpg" alt="Git"> <img src="https://github.com/mirjaved/mirjaved/blob/main/Github.jpg" alt="GitHub">
 
 - 🔭 I’m currently working on this page. 
 
