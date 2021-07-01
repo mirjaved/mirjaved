@@ -9,6 +9,9 @@ I really enjoy working on frameworks such as Laravel for developing web applicat
 PHP / JavaScript / HTML / CSS
 
 <img src="https://github.com/mirjaved/mirjaved/blob/main/PHP.jpg" alt="PHP">
+<img src="https://github.com/mirjaved/mirjaved/blob/main/javascript.jpg" alt="JavaScript">
+<img src="https://github.com/mirjaved/mirjaved/blob/main/HTML.jpg" alt="HTML">
+<img src="https://github.com/mirjaved/mirjaved/blob/main/CSS.jpg" alt="CSS">
 
 ### Frameworks I am competent with
 Laravel / Livewire
