@@ -5,13 +5,13 @@
 
 I really enjoy working on frameworks such as Laravel for developing web applications and Livewire for building dynamic interfaces, as well as working in WordPress.  A fast learner, self-motivated and a team player, a tech enthusiast and always want to learn new things.
 
-Languages I am competent with
+## Languages I am competent with
 PHP / JavaScript / HTML / CSS
 
-Frameworks I am competent with
+## Frameworks I am competent with
 Laravel / Livewire
 
-Tools I have worked with
+## Tools I have worked with
 Git / VS Code / MySQL / GitHub
 
 - 🔭 I’m currently working on this page. 
