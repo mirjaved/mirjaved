@@ -9,7 +9,7 @@ I really enjoy working on frameworks such as Laravel for developing web applicat
 <img src="https://github.com/mirjaved/mirjaved/blob/main/PHP.jpg" alt="PHP"> <img src="https://github.com/mirjaved/mirjaved/blob/main/javascript.jpg" alt="JavaScript"> <img src="https://github.com/mirjaved/mirjaved/blob/main/HTML.jpg" alt="HTML"> <img src="https://github.com/mirjaved/mirjaved/blob/main/CSS.jpg" alt="CSS">
 
 ### Frameworks I am competent with
-<img src="https://github.com/mirjaved/mirjaved/blob/main/Laravel.jpg" alt="Laravel"> <img src="https://github.com/mirjaved/mirjaved/blob/main/Livewire.jpg" alt="Livewire">
+<img src="https://github.com/mirjaved/mirjaved/blob/main/Laravel.jpg" alt="Laravel"> <img src="https://github.com/mirjaved/mirjaved/blob/main/Livewire2.jpg" alt="Livewire">
 
 ### Tools I have worked with
 <img src="https://github.com/mirjaved/mirjaved/blob/main/Adobe-Photshop.jpg" alt="Adobe Photoshop"> <img src="https://github.com/mirjaved/mirjaved/blob/main/VSCode.jpg" alt="VS Code"> <img src="https://github.com/mirjaved/mirjaved/blob/main/MySQL.jpg" alt="MySQL"> <img src="https://github.com/mirjaved/mirjaved/blob/main/GIT.jpg" alt="Git"> <img src="https://github.com/mirjaved/mirjaved/blob/main/Github.jpg" alt="GitHub">
