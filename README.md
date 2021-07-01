@@ -8,6 +8,8 @@ I really enjoy working on frameworks such as Laravel for developing web applicat
 ### Languages I am competent with
 PHP / JavaScript / HTML / CSS
 
+<img src="https://github.com/mirjaved/mirjaved/blob/main/PHP.jpg" alt="PHP">
+
 ### Frameworks I am competent with
 Laravel / Livewire
 
